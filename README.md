@@ -27,11 +27,11 @@ Note: Tested in Python 3.11, running on Windows 11 with a NVIDIA RTX 4090 with C
 ### Clone repo
 
 ```
-git clone https://github.com/Prafful-Vyas/simple-local-rag.git
+git clone https://github.com/Prafful-Vyas/local-rag-pipeline.git
 ```
 
 ```
-cd simple-local-rag
+cd local-rag-pipeline
 ```
 
 
